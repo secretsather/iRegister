@@ -19,7 +19,8 @@ iRegister was created to allow the user to manually process large image datasets
 
 ### Installing
 
-'''git clone https://github.com/secretsather/iRegister''' to a path within your jupyter startup folder
+''' git clone https://github.com/secretsather/iRegister ''' 
+* to a path within your jupyter startup folder
 
 ### Executing program
 
