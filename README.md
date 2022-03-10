@@ -42,20 +42,31 @@ If no selections are made on the images, or if the selections are cleared prior 
 Examples of inputs & results are shown below: 
 
 INPUT
+
 ![](/examples/cats/unaligned.png)
+
 RESULT
+
 ![](/examples/cats/aligned.png)
+
 INPUT
+
 ![](/examples/triangles/unaligned.png)
+
 RESULT
+
 ![](/examples/triangles/aligned.png)
 
 Moreover, the user may select points that allow any rotation, and may select multiple objects from a single image as shown in the example below: 
 
 INPUT
+
 ![](/examples/crayons/unaligned.png)
+
 RESULTS
+
 ![](/examples/crayons/aligned.png)
+
 ![](/examples/crayons/Animation.gif)
 
 ## How it works
